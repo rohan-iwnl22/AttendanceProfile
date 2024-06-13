@@ -1,0 +1,11 @@
+.stdContainer {
+  display: flex;
+  flex-direction: row;
+  margin-top: 5%;
+  justify-content: space-evenly;
+}
+
+.barGContainer {
+  height: 500px;
+  width: 500px;
+}
